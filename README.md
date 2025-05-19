@@ -1,7 +1,24 @@
 ## This is my GitHub profile. It might not look like much,
 but it is a great collection of GitHub repo tidbits!
 
+
+<div align="center">
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MynaITLabs&theme=transparent)
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MynaITLabs&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MynaITLabs&theme=transparent)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MynaITLabs&theme=transparent) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MynaITLabs&theme=transparent&utcOffset=2)
+
+  
+</div>
+
 <!--
+
+
+
 **MynaITLabs/MynaITLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
