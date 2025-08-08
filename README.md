@@ -1,23 +1,63 @@
 ## This is my GitHub profile. It might not look like much,
 but it is a great collection of GitHub repo tidbits!
 
-
 <div align="center">
  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MynaITLabs&theme=transparent)
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MynaITLabs&theme=transparent)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MynaITLabs&theme=transparent)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MynaITLabs&theme=transparent) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MynaITLabs&theme=transparent&utcOffset=2)
-
-  
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MynaITLabs&theme=transparent)
+ 
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MynaITLabs&theme=transparent)
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MynaITLabs&theme=transparent) 
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MynaITLabs&theme=transparent)  
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MynaITLabs&theme=transparent&utcOffset=2)
 </div>
 
-<!--
+<hr>
+
+### About My stack :man_technologist:
+
+- My areas of focus include IT Systems Admin, IT Desktop Support, and jack-of-all-trades
+- Including things like
+  - Bash, perl, python
+  - LAMP (Linux Apache MoriaSQL PHP )
+  - Packages: Zabbix, Smokeping, ZFS, Sanoid
+  - OS: Windows, Red Hat (Fedora, CentOS, AlmaLinux), Ubuntu, RPI
+  - Software Apps: LibreOffice, GIMP, InkScape, Cura, 
+- or even
+   - purchasing and inventory/stock management
+  - 3D printing
+
+Languages and Tools :
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat" height="25" />
+<img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat" height="25" />
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat" height="25" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=flat" height="25" />
+<img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=flat" height="25" />
+<img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat" height="25" />
+</br>
+
+FUTURE 
+<img src="https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=flat" height="25" />
 
 
+<p>Common Tools:
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" height="30" width="30">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mySql" height="30" width="30">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30" width="30">
+</p>
+
+
+You can reach me at: 
+  <a href="https://www.linkedin.com/in/iaindavidson"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="erfan linkdin profile" height="30" width="30"></a>
+  <a href="[https://twitter.com/erfan_6789](https://x.com/mynait)">    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"     alt="erfan twitter profile" height="30" width="30">  </a>
+
+
+### Github Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=MynaITLabs&show_icons=true&theme=nord&hide_title=true&hide_rank=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MynaITLabs&layout=compact&theme=nord)
+
+
+<!-- ----------------------------------------------------------------------------------------------------------------------
 
 **MynaITLabs/MynaITLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,67 +72,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h2 align="center">You can reach me at :alien:</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/erfan-hanifezade-07239b201/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="erfan linkdin profile" height="30" width="30">
-  </a>
-
-  <a href="https://twitter.com/erfan_6789">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" 
-    alt="erfan twitter profile" height="30" width="30">
-  </a>
-
-  <a href="https://t.me/Erfan_Hanifezade">
-    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" 
-    alt="erfan telegram profile" height="30" width="30">
-  </a>
-  
-  <a href="https://gitlab.com/Erfanhanifezade">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="erfan GitLab Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://www.instagram.com/erfan_hanifezadee/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="erfan Instagram Profile" height="30" width="30">
-  </a>
-</p>
-
-
-<h2 align="center">My stack :man_technologist:</h2>
-
-<p align="center">Tools that I use on a daily basis, or that I've used or worked with (either much or a bit) in the past</p>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" height="30" width="30">
-
-  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" height="30" width="30">
-
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" height="30" width="30">
-
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" height="30" width="30">
-
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphQL" height="30" width="30">
-
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" height="30" width="30">
-
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" height="30" width="30">
-
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mySql" height="30" width="30">
-
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" height="30" width="30">
-
-  <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Golang" height="30" width="30">
-
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30" width="30">
-</p>
-
-<h2 align="center">Github stats :bar_chart:</h2>
- 
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{ErfiDev}/count.svg" alt="erfan visitor count" /></p>
-
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfiDev&langs_count=10&theme=flat&layout=compact" alt="erfan :: Top Langs" /></p>
 -->
+
+<hr>
