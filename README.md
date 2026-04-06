@@ -2,8 +2,10 @@
 but it is a great collection of GitHub repo tidbits!
 
 <div align="center">
- Above all ..  don't be a dick.. 
- <a href=https://github.com/MynaITLabs/MynaITLabs/blob/main/CODE_OF_CONDUCT.md>CODE OF CONDUCT
+ Above all ..  don't be a dick.. </br>
+ <a href=https://github.com/MynaITLabs/MynaITLabs/blob/main/CODE_OF_CONDUCT.md>
+ <img src=https://github.com/MynaITLabs/MynaITLabs/blob/main/dont-be-a-dick-100.png></br>
+ CODE OF CONDUCT
  </a>
  
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MynaITLabs&theme=transparent)
