@@ -2,9 +2,11 @@
 but it is a great collection of GitHub repo tidbits!
 
 <div align="center">
+ Above all ..  don't be a dick.. 
+ <a href=https://github.com/MynaITLabs/MynaITLabs/blob/main/CODE_OF_CONDUCT.md>CODE OF CONDUCT
+ </a>
  
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MynaITLabs&theme=transparent)
- 
  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MynaITLabs&theme=transparent)
  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MynaITLabs&theme=transparent) 
  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MynaITLabs&theme=transparent)  
