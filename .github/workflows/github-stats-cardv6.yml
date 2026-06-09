@@ -1,12 +1,12 @@
-name: Update README cards
+name: Update README GitHub Stats SVG
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once daily at midnight
-  workflow_dispatch:
+    - cron: "0 0 12 * *" # Runs on the 12th of every month
+  workflow_dispatch:  # Allows manual trigger
 
 jobs:
-  build:
+  build:   # ??? or stats: ???
     runs-on: ubuntu-latest
 
     permissions:
@@ -14,8 +14,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v6
-
-      - name: Generate stats card
+      - name: Generate GitHub SVG stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
@@ -28,5 +27,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
+          git commit -m "Update README stat svg cards" || exit 0
+          #     OR  git diff --quiet && git diff --staged --quiet || (git commit -m "Update stats SVG" && git push)
           git push
