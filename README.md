@@ -56,10 +56,14 @@ You can reach me at:
 
 
 ### Github Stats
-![GitHub stats](stats.svg)
-![Stats](./profile/stats2.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
+! [GitHub stats](stats.svg)
+! [Stats](./profile/stats.svg)
+! [Stats](./profile/stats2.svg)
+! [Top Languages](./profile/top-langs.svg)
+! [Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
+! [GitHub stats extended](https://github-stats-extended.vercel.app/api?username=mynaitlabs)](https://github.com/stats-organization/github-stats-extended)
+![Stats](./profile/stats.svg)
+
 
 <!-- ### Older doesn't work > 2025 Nov
 ![Stats](https://github-readme-stats.vercel.app/api?username=MynaITLabs&show_icons=true&theme=nord&hide_title=true&hide_rank=true)
