@@ -2,7 +2,7 @@
 but it is a great collection of GitHub repo tidbits!
 
 <div align="center">
- Above all ..  don't be a dick.. </br>
+ Above all ..  don't be a dick.. and be excellent to each other.</br>
  <a href=https://github.com/MynaITLabs/MynaITLabs/blob/main/CODE_OF_CONDUCT.md>
  <img src=https://github.com/MynaITLabs/MynaITLabs/blob/main/dont-be-a-dick-100.png></br>
  CODE OF CONDUCT
@@ -52,18 +52,17 @@ FUTURE
 
 You can reach me at: 
   <a href="https://www.linkedin.com/in/iaindavidson"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="erfan linkdin profile" height="30" width="30"></a>
-  <a href="[https://twitter.com/erfan_6789](https://x.com/mynait)">    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"     alt="erfan twitter profile" height="30" width="30">  </a>
-
-
+  <a href="https://x.com/mynait"><img src="https://www.vectorlogo.zone/logos/x/x-ar21~bgwhite.svg"     alt="x x.com twitter profile" height="30" width="30" >  </a>
+  
 ### Github Stats
 ! [GitHub stats](stats.svg)
 ! [Stats](./profile/stats.svg)
 ! [Stats](./profile/stats2.svg)
 ! [Top Languages](./profile/top-langs.svg)
 ! [Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
-! [GitHub stats extended](https://github-stats-extended.vercel.app/api?username=mynaitlabs)](https://github.com/stats-organization/github-stats-extended)
-![Stats](./profile/stats.svg)
-
+! [GitHub stats extended](https://github-stats-extended.vercel.app/api?username=mynaitlabs)
+! [Github stats site](https://github.com/stats-organization/github-stats-extended)
+!
 
 <!-- ### Older doesn't work > 2025 Nov
 ![Stats](https://github-readme-stats.vercel.app/api?username=MynaITLabs&show_icons=true&theme=nord&hide_title=true&hide_rank=true)
