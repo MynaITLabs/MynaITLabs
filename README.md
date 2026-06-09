@@ -56,9 +56,16 @@ You can reach me at:
 
 
 ### Github Stats
+![GitHub stats](stats.svg)
+![Stats](./profile/stats2.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 
+<!-- ### Older doesn't work > 2025 Nov
 ![Stats](https://github-readme-stats.vercel.app/api?username=MynaITLabs&show_icons=true&theme=nord&hide_title=true&hide_rank=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MynaITLabs&layout=compact&theme=nord)
+######################################
+-->
 
 
 <!-- ----------------------------------------------------------------------------------------------------------------------
