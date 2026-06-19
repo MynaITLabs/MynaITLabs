@@ -1,8 +1,8 @@
 ## This is my GitHub profile. It might not look like much,
-but it is a great collection of GitHub repo tidbits!
+But it is a great collection of GitHub repo tidbits!
 
 <div align="center">
- Above all ..  don't be a dick.. and be excellent to each other.</br>
+ Above all ..  don't be a dick.. and also be excellent to each other.</br>
  <a href=https://github.com/MynaITLabs/MynaITLabs/blob/main/CODE_OF_CONDUCT.md>
  <img src=https://github.com/MynaITLabs/MynaITLabs/blob/main/dont-be-a-dick-100.png></br>
  CODE OF CONDUCT
@@ -27,8 +27,9 @@ but it is a great collection of GitHub repo tidbits!
   - OS: Windows, Red Hat (Fedora, CentOS, AlmaLinux), Ubuntu, RPI
   - Software Apps: LibreOffice, GIMP, InkScape, Cura, 
 - or even
-   - purchasing and inventory/stock management
+  - purchasing and inventory/stock management
   - 3D printing
+  - Electronic Recycling and Artwork
 
 Languages and Tools :
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat" height="25" />
