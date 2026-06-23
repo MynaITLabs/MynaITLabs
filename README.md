@@ -91,3 +91,7 @@ Here are some ideas to get you started:
 -->
 
 <hr>
+
+![GitHubBuild](https://github.com/MynaITLabs/MynaITLabs/workflows/GitHubBuild/badge.svg)
+[![Coverage Status](https://coveralls.io/repos/github/MynaITLabs/MynaITLabs/badge.svg?branch=master)](https://coveralls.io/github/MynaITLabs/MynaITLabs?branch=master)
+![GitHub repo size](https://img.shields.io/github/repo-size/MynaITLabs/MynaITLabs)
